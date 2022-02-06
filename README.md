@@ -1,0 +1,2 @@
+# Simple_student_management_system
+利用基础java知识实现对学生管理系统的操作
