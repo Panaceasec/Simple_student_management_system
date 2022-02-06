@@ -14,6 +14,7 @@
 2.用Scanner实现键盘录入数据
 3.用switch完成操作的选择
 5.用循环完成再次回到主界面
+
 ![image](https://user-images.githubusercontent.com/61231746/152664212-89bdd22c-e9c7-4eee-8610-d555f2e4381f.png)
 
 ## 添加学生
