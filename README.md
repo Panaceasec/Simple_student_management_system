@@ -1,6 +1,6 @@
 # Simple_student_management_system
 利用基础java知识实现对学生管理系统的操作
-[TOC]
+
 # 学生管理系统实现思路
 定义学生类
 主界面代码
